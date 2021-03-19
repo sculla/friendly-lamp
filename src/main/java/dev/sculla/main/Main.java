@@ -7,7 +7,7 @@ public class Main {
         int result = 42;
         System.out.println(result + "=" + "this val");
 
-        final String sayWhat = HelloWorld.sayHello();
+        final String sayWhat = HelloWorld.sayWhat();
         System.out.println(sayWhat);
     }
 }
