@@ -4,7 +4,7 @@ import dev.sculla.helloworld.HelloWorld;
 
 public class Main {
     /**
-     * @param args eh?
+     * @param args need to understand a bit better
      */
     public static void main(String... args) {
         int result = 42;
