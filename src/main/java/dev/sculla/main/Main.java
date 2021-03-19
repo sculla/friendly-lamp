@@ -3,6 +3,9 @@ package dev.sculla.main;
 import dev.sculla.helloworld.HelloWorld;
 
 public class Main {
+    /**
+     * @param args eh?
+     */
     public static void main(String... args) {
         int result = 42;
         System.out.println(result + "=" + "this val");
