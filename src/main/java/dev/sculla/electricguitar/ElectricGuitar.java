@@ -1,6 +1,10 @@
 package dev.sculla.electricguitar;
 
 public class ElectricGuitar {
+    private String brand;
+    private int numOfPickups;
+    private boolean rockStarUsesIt;
+
     public String getBrand() {
         return brand;
     }
@@ -24,10 +28,6 @@ public class ElectricGuitar {
     public void setRockStarUsesIt(boolean rockStarUsesIt) {
         this.rockStarUsesIt = rockStarUsesIt;
     }
-
-    private String brand;
-    private int numOfPickups;
-    private boolean rockStarUsesIt;
 
 
 }
